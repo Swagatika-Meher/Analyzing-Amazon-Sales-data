@@ -111,6 +111,40 @@ Maximum units sold in the year 2012 and in the month July. Minimum units sold in
 * **Profit**
 
   **Tableau Dashboard** : Click [here](https://public.tableau.com/views/Profit_yearly_month-wise/Sale_9?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Top 10 days when profits are highest
+**Tableau Link** : Click [here](https://public.tableau.com/views/top10_profit_17145414386280/Sale_16?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_16](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/8908260b-2df5-40cf-a736-9e8ca8f80a0b)
+
+In the dt.5th July, 2013 and 20th July, 2013, highest profit has been achieved.
+
+## Top 10 days when Sale Revenue are highest
+**Tableau Link** : Click [here](https://public.tableau.com/views/top10_SaleRevenue/Sale_17?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_17](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/0bd18de3-b7ed-4db1-81a1-00eb6104eaf0)
+
+In the dt.8th February, 2017 and 16th January, 2015, sale revenues have been highest.
+
+## Top 10 days when Sale Units are highest
+**Tableau Link** : Click [here](https://public.tableau.com/views/top10_SaleUnits/Sale_18?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_18](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/428713e5-42a9-4b16-8136-e795860ce4e9)
+
+In the dt.28th May, 2010 and 30th June, 2010, maximum sale units have been achieved.
+
+# Conclusion
+* Total profit and total revenue is directly proportional to each other.
+* Total profit and units sold is directly proportional to each other.
+* The two variables 'Units Sold' and 'Unit Cost' are inversely proportional to each other to some extent. When more units of a product are sold, the unit cost of that product becomes lesser and vice versa.
+* Highest net profit margin has been achieved in the items ‘clothes’ and ‘cosmetics’.
+
+
+
+
+
+
+
    
 
 
