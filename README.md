@@ -42,6 +42,15 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 4. [Unit Price and Unit Cost] and Units Sold are entirely separate entities. The quantity of a product sold is unaffected by the price per unit, just as the cost of a unit is unaffected by the quantity of units sold. 
 5. The relationship between Total Revenue and Unit Cost, Unit Price, and Total Cost is essentially nonexistent.
 
+## Yearly Analysis
+**Tableau Link** : Click [here](https://public.tableau.com/views/TotalSale_yearly/Sale_2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_2](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/677ceb05-d374-493a-9b27-6f3432229cdf)
+
+As we can see, total profit and total revenue is directly proportional to each other. Maximum profit and maximum revenue have been achieved in 2012. Minimum profit and minimum revenue have been achieved in 2011.
+
+
+
 
 
 
