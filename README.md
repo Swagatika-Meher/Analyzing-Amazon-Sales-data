@@ -28,6 +28,10 @@ Data Analysis : I started analyzing dataset using Pandas, NumPy, Matplotlib and 
 
 Data Visualization : Plotted graphs to get insights about dependent and independent variables. Also used Tableau for data visualization.
 ```
+# Data Collection, Data Cleaning, and Data analysis
+[Amazon_sales_data_analysis.ipynb](https://colab.research.google.com/drive/18W2lTUZ24NaYHKnY_ZpdJCMhBo-3OpI8?usp=sharing)
+
+
 
 
 
