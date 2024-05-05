@@ -56,6 +56,15 @@ As we can see, total profit and total revenue is directly proportional to each o
 
 Maximum profit and maximum revenue have been achieved in the month of February. Minimum profit and minimum revenue have been achieved in the month of august.
 
+## Region-wise Analysis
+**Tableau Dashboard** : Click [here](https://public.tableau.com/views/Dashboard_2_17145484370550/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Dashboard 2](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/90d1604d-74d9-4469-b6c6-44f7cd0aca4a)
+
+Maximum profit and maximum revenue have been in **Sub-Saharan Africa** region. Lowest profit and lowest revenue have been in **North America** region.
+
+
+
 
 
 
