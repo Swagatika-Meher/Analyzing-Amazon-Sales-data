@@ -49,6 +49,14 @@ Data Visualization : Plotted graphs to get insights about dependent and independ
 
 As we can see, total profit and total revenue is directly proportional to each other. Maximum profit and maximum revenue have been achieved in 2012. Minimum profit and minimum revenue have been achieved in 2011.
 
+## Monthly Analysis
+**Tableau Link** : Click [here](https://public.tableau.com/views/TotalSale_monthly/Sale_4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_4](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/6393ab1c-bba5-49e8-9b9f-fcf668c3ad5f)
+
+Maximum profit and maximum revenue have been achieved in the month of February. Minimum profit and minimum revenue have been achieved in the month of august.
+
+
 
 
 
