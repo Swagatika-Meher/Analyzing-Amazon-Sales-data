@@ -63,6 +63,31 @@ Maximum profit and maximum revenue have been achieved in the month of February. 
 
 Maximum profit and maximum revenue have been in **Sub-Saharan Africa** region. Lowest profit and lowest revenue have been in **North America** region.
 
+# Analogy
+**Tableau Dashboard** : Click [here](https://public.tableau.com/views/comparison_1_17148417598020/Dashboard5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Dashboard 5](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/964be08b-0d7a-4b2c-ad23-0a0fc17ba417)
+
+1. **Units Sold vs. Total Profit :** As we can see, maximum profit has been generated when the number of units sold were between 5000 and 10000 i.e. more the number of units sold, more will be the profit generated.
+2. **Total Revenue vs. Total Profit :** The scatter plot suggests that total profit and total revenue are directly proportional to each other.
+3. **Unit Cost vs. Units Sold :** Here, the two variables 'Units Sold' and 'Unit Cost' are inversely proportional to each other to some extent. When more units of a product are sold, the unit cost of that product becomes lesser and vice versa.
+4. **Total Cost vs. Units Sold :** As we can see, maximum cost has been generated when the number of units sold were between 7000 and 9000. More the number of units sold of a product, more will be the total cost associated with it.
+
+## Selling item type
+**Tableau Dashboard** : Click [here](https://public.tableau.com/views/Dashboard_4_17145771557530/Dashboard4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Dashboard 4](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/b0a620e2-eddc-404c-a58b-25567f32ef58)
+
+* Maximum units has been sold having the items ‘Cosmetics' and ‘Clothes' closely followed by ‘Beverages’.
+* Even though higher units of clothes sold, less profit and less revenue has been generated.
+* Maximum revenue has been generated from the items ‘Office supplies' and 'Cosmetics' closely followed by ‘Household’.
+* Highest net profit margin has been achieved in ‘clothes’ and ‘cosmetics’.
+
+
+
+
+
+
 
 
 
