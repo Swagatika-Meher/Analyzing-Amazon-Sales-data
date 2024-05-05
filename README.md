@@ -83,6 +83,36 @@ Maximum profit and maximum revenue have been in **Sub-Saharan Africa** region. L
 * Maximum revenue has been generated from the items ‘Office supplies' and 'Cosmetics' closely followed by ‘Household’.
 * Highest net profit margin has been achieved in ‘clothes’ and ‘cosmetics’.
 
+## Net Profit margin yearly
+**Tableau Link** : Click [here](https://public.tableau.com/views/Net_Profit_Margin_yearly/Sale_14?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_14](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/bdbe55ae-dac3-4b5b-9ec3-932cbbd2669a)
+
+Highest net profit margin has been achieved in the year 2012 and lowest profit margin has been achieved in the year 2011.
+
+## Net Profit margin monthly
+**Tableau Link** : Click [here](https://public.tableau.com/views/Net_Profit_Margin_monthly/Sale_15?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Sale_15](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/c96d5438-3d42-4473-8c74-421ce146d094)
+
+Highest net profit margin has been achieved in the month of july and lowest profit margin has been achieved in the month of December.
+
+## Year-month wise
+* **Units Sold**
+  **Tableau Dashboard** : Click [here](https://public.tableau.com/views/Dashboard_1_17145454023930/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+  **Tableau Dashboard** : Click [here](https://public.tableau.com/views/Dashboard_3_17145763236120/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![Dashboard 1](https://github.com/Swagatika-Meher/Analyzing-Amazon-Sales-data/assets/114692581/bb3fd855-f217-415a-94ae-9afe9aed3d23)
+
+Maximum units sold in the year 2012 and in the month July. Minimum units sold in the year 2016 and in the month march.
+
+* **Profit**
+  **Tableau Dashboard** : Click [here](https://public.tableau.com/views/Profit_yearly_month-wise/Sale_9?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+   
+
+
+
+
 
 
 
